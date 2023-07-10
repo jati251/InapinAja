@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "ApartKos",
+        "facility": "Pendingin Ruangan\r\nKitchen\r\nAir Minum\r\nCuci Setrika\r\nPembantuKeamanan\r\nParkir Motor\r\nParkir Mobil",
+        "roomCapacity": 1,
+        "imgUrl": "https://www.homesyariah.com/wp-content/uploads/2022/10/homesyariah.com-kosan-unpad-dijual-jatinangor-sumedang-002-592x444.jpg",
+        "authorId": 1,
+        "location": "Jakarta",
+        "price": 300000,
+        "typeId": 1
+    },
+    {
+        "id": 2,
+        "name": "Wisma Nadhifasa",
+        "facility": "Kitchen\r\nAir Minum\r\nSteam Motor\r\nPembantuKeamanan\r\nParkir Motor\r\nParkir Mobil",
+        "roomCapacity": 2,
+        "imgUrl": "https://lh3.googleusercontent.com/p/AF1QipM4tZj4HMw1-EUGtHsSYpTrdS2UuFJE03I-ddFg=s680-w680-h510",
+        "authorId": 2,
+        "location": "Bandung",
+        "price": 1000000,
+        "typeId": 2
+    },
+    {
+        "id": 3,
+        "name": "Villa Anggrek",
+        "facility": "Kitchen\r\nKolam Renang\r\nLaundry\r\nPembantuKeamanan\r\nParkir Motor\r\nParkir Mobil\r\nAC",
+        "roomCapacity": 4,
+        "imgUrl": "https://pix10.agoda.net/hotelImages/413/4137488/4137488_18011106170060976848.jpg?ca=6&ce=1&s=1024x768",
+        "authorId": 3,
+        "location": "Surabaya",
+        "price": 5000000,
+        "typeId": 3
+    },
+    {
+        "id": 4,
+        "name": "Villa Mawar",
+        "facility": "Kitchen\r\nKamar Mandi Dalam\r\nCuci Setrika\r\nPembantuKeamanan\r\nParkir Motor\r\nParkir Mobil",
+        "roomCapacity": 4,
+        "imgUrl": "https://fastly.4sqi.net/img/general/600x600/45647699_jB_Mul8RJEHIz-dg7hj-WJv_6IRiszeRJ9cprDISHs4.jpg",
+        "authorId": 2,
+        "location": "Bogor",
+        "price": 4600000,
+        "typeId": 3
+    },
+    {
+        "id": 5,
+        "name": "Puri Indah",
+        "facility": "Taman\r\nDapur\r\nCuci Setrika\r\nPembantuKeamanan\r\nParkir Motor\r\nKantin",
+        "roomCapacity": 3,
+        "imgUrl": "https://events.rumah123.com/wp-content/uploads/sites/38/2022/11/28131907/Bangunan-Rumah-Mewah-1024x683.jpg",
+        "authorId": 3,
+        "location": "Bogor",
+        "price": 800000,
+        "typeId": 2
+    },
+    {
+        "id": 6,
+        "name": "Kos merah",
+        "facility": "Kitchen\r\nAir Minum\r\nLaundry\r\nPembantuKeamanan\r\nParkir Motor",
+        "roomCapacity": 1,
+        "imgUrl": "https://www.cekpremi.com/blog/wp-content/uploads/2021/04/bisnis-kos-kosan.jpeg",
+        "authorId": 3,
+        "location": "Sumedang",
+        "price": 300000,
+        "typeId": 1
+    },
+    {
+        "id": 7,
+        "name": "Rumah Wangi",
+        "facility": "Dapur\r\nAir Minum\r\nCuci Setrika\r\nPembantuKeamanan\r\nParkir Motor\r\nParkir Mobil",
+        "roomCapacity": 3,
+        "imgUrl": "https://awsimages.detik.net.id/community/media/visual/2022/11/16/rumah-sederhana-dan-recommended-3.jpeg?w=1200",
+        "authorId": 2,
+        "location": "Bandung",
+        "price": 1200000,
+        "typeId": 2
+    },
+    {
+        "id": 8,
+        "name": "Wangsa 2 ",
+        "facility": "Dapur\r\nAir Minum\r\nCuci Setrika\r\nPembantuKeamanan\r\nParkir Motor\r\nParkir Mobil\r\nKolam Renang",
+        "roomCapacity": 4,
+        "imgUrl": "https://www.jamesedition.com/stories/wp-content/uploads/2020/12/1_Israel.jpg",
+        "authorId": 3,
+        "location": "Bandung",
+        "price": 3500000,
+        "typeId": 3
+    }
+]

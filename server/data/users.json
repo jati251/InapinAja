@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "username": "jati",
+        "email": "jati.suryo@gmail.com",
+        "password": "12345678",
+        "role": "Admin",
+        "phoneNumber": "7739563723",
+        "address": "56387 Westerfield Court"
+    },
+    {
+        "id": 2,
+        "username": "cforson1",
+        "email": "cweaving1@tamu.edu",
+        "password": "7Grnp1VU",
+        "role": "Staff",
+        "phoneNumber": "3333548532",
+        "address": "2005 Springs Plaza"
+    },
+    {
+        "id": 3,
+        "username": "cblackborow2",
+        "email": "ccluelow2@gravatar.com",
+        "password": "XZGhtsS",
+        "role": "Staff",
+        "phoneNumber": "5075756678",
+        "address": "74 Dryden Junction"
+    },
+    {
+        "id": 4,
+        "username": "mdibartolomeo3",
+        "email": "tduffy3@multiply.com",
+        "password": "NVCsDzyfXv",
+        "role": "Staff",
+        "phoneNumber": "7445967662",
+        "address": "81 Nova Place"
+    },
+    {
+        "id": 5,
+        "username": "hbuxton4",
+        "email": "stritten4@discuz.net",
+        "password": "0AwxI4",
+        "role": "Staff",
+        "phoneNumber": "7728252199",
+        "address": "1984 Tomscot Drive"
+    },
+    {
+        "id": 6,
+        "username": "plempertz5",
+        "email": "cutton5@phpbb.com",
+        "password": "o99JXwV41tm",
+        "role": "Staff",
+        "phoneNumber": "9509987856",
+        "address": "78 Novick Terrace"
+    },
+    {
+        "id": 7,
+        "username": "cmangenot6",
+        "email": "tionn6@cnn.com",
+        "password": "zs6t0zGC",
+        "role": "Staff",
+        "phoneNumber": "3644633721",
+        "address": "9 Surrey Place"
+    },
+    {
+        "id": 8,
+        "username": "tcufflin7",
+        "email": "abehrend7@canalblog.com",
+        "password": "pGxhGd6piox8",
+        "role": "Staff",
+        "phoneNumber": "4687690153",
+        "address": "0882 Division Terrace"
+    },
+    {
+        "id": 9,
+        "username": "skonig8",
+        "email": "derbain8@baidu.com",
+        "password": "nzqB41",
+        "role": "Staff",
+        "phoneNumber": "1299077138",
+        "address": "0 Glacier Hill Court"
+    },
+    {
+        "id": 10,
+        "username": "swalklott9",
+        "email": "ekobel9@nsw.gov.au",
+        "password": "HvLxKg6n",
+        "role": "Staff",
+        "phoneNumber": "5574913120",
+        "address": "85 Pierstorff Court"
+    },
+    {
+        "id": 11,
+        "username": "etibbettsa",
+        "email": "mmilroya@chron.com",
+        "password": "WNjqn2ssL1N",
+        "role": "Staff",
+        "phoneNumber": "8896146603",
+        "address": "2 Green Ridge Avenue"
+    },
+    {
+        "id": 12,
+        "username": "eshowenb",
+        "email": "inorthcottb@freewebs.com",
+        "password": "o5QP83O",
+        "role": "Staff",
+        "phoneNumber": "6022941702",
+        "address": "3482 Tennessee Way"
+    },
+    {
+        "id": 13,
+        "username": "dhaylesc",
+        "email": "ckettellc@aol.com",
+        "password": "sj4LG6FQ",
+        "role": "Staff",
+        "phoneNumber": "7033080837",
+        "address": "298 David Court"
+    },
+    {
+        "id": 14,
+        "username": "yknevetd",
+        "email": "qparamand@yahoo.co.jp",
+        "password": "quVjOI1bQxe",
+        "role": "Staff",
+        "phoneNumber": "9701269245",
+        "address": "82 Hintze Trail"
+    },
+    {
+        "id": 15,
+        "username": "fsmorthite",
+        "email": "tflathere@cpanel.net",
+        "password": "H7txFY8HQ",
+        "role": "Staff",
+        "phoneNumber": "2622573192",
+        "address": "7 Golf Course Circle"
+    }
+]
