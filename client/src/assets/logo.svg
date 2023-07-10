@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 360.712 207.054" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="207.054" width="360.712" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Untitled" vectornator:layerName="Untitled">
+<text fill="#3184ff" font-family="Helvetica" font-size="69.6" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 28.8757 115.717)" vectornator:layerName="text" vectornator:width="302.96" x="0" y="0">
+<tspan textLength="189.633" x="0" y="68">Inapin</tspan>
+<tspan font-family="Helvetica-Bold" font-weight="bold" textLength="108.308" x="189.633" y="68">Aja</tspan>
+</text>
+<path d="M74.4744 54.8571L136.017 27.8019L199.937 54.8571L199.937 54.8571L199.937 124.291L199.937 124.291L74.4744 124.291L74.4744 124.291L74.4744 54.8571L74.4744 54.8571Z" fill="none" opacity="1" stroke="#3084ff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="4.8" vectornator:layerName="rect"/>
+<path d="M172.105 23.2522L311.929 23.2522L311.929 23.2522L311.929 108.372L311.929 108.372L172.105 108.372L172.105 108.372L172.105 23.2522L172.105 23.2522Z" fill="#3084ff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="rect"/>
+<text fill="#000000" font-family="Helvetica" font-size="69.6" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 359.821 52.8103)" vectornator:width="222.645" x="0" y="0">
+<tspan fill="#000000" fill-opacity="0" textLength="219.645" x="0" y="68">Text</tspan>
+</text>
+</g>
+</svg>
